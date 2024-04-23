@@ -17,7 +17,7 @@ export const authenticateAgent = (req, res) => {
         return res.status(401).send('Credenciales inválidas');
     }
 
-    const token = jwt.sign({ email: agent.email, name: agent.name }, process.env.JWT_SECRET, { expiresIn: '10s' });
+    const token = jwt.sign({ email: agent.email, name: agent.name }, process.env.JWT_SECRET, { expiresIn: '2m' });
     res.json({ token: token, name: agent.name, email: agent.email });
 };
 

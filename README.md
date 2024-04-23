@@ -1,14 +1,11 @@
 # FBI System Authentication
 
-## Descripción
-
 El sistema de autenticación del FBI es una aplicación web segura que permite a los agentes autenticados acceder a un dashboard restringido. Utiliza tokens JWT para manejar la sesión y asegurar que solo los usuarios con credenciales válidas puedan acceder a las áreas protegidas de la aplicación.
 
 
 ## Tecnologías Utilizadas
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![DOTENV](https://img.shields.io/badge/dotenv-0000?style=for-the-badge&logo=dotenv&logoColor=fff&color=b0a321) 
-![jSON](https://img.shields.io/badge/json-fff?style=for-the-badge&logo=JSON&logoColor=%23292928)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Funcionalidades
